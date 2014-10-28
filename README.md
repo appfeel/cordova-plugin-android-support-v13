@@ -1,4 +1,1 @@
-cordova-plugin-android-support-v13
-==================================
-
-Adds the android-support-v13.jar to your project.
+This is a Cordova plugin that adds the Android Support v13 client library. It is meant to be depended on by other plugins.
