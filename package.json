@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-android-support-v13",
+  "name": "cordova-android-support-v13",
   "version": "13.0.0",
   "description": "This is a Cordova plugin that adds the Android Support v13 client library. It is meant to be depended on by other plugins.",
   "cordova": {

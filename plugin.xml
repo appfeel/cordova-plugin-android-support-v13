@@ -4,7 +4,7 @@ Copyright (c) 2014 AppFeel. All rights reserved.
 Use of this source code is governed by a MIT license that can be
 found in the LICENSE file.
 -->
-<plugin xmlns="http://cordova.apache.org/ns/plugins/1.0" id="cordova-plugin-android-support-v13" version="13.0.0">
+<plugin xmlns="http://cordova.apache.org/ns/plugins/1.0" id="cordova-android-support-v13" version="13.0.0">
   <engines>
     <engine name="cordova" version=">=3.0.0" />
   </engines>
