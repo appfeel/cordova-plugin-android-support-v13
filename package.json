@@ -1,0 +1,31 @@
+{
+  "name": "cordova-plugin-android-support-v13",
+  "version": "13.0.0",
+  "description": "This is a Cordova plugin that adds the Android Support v13 client library. It is meant to be depended on by other plugins.",
+  "cordova": {
+    "id": "cordova-android-support-v13",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appfeel/cordova-plugin-android-support-v13.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "AppFeel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appfeel/cordova-plugin-android-support-v13/issues"
+  },
+  "homepage": "https://github.com/appfeel/cordova-plugin-android-support-v13#readme"
+}
